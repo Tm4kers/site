@@ -1,0 +1,47 @@
+body{
+    background-color: #d8cade;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-family: Brush Script Std, cursive;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+#titre img{
+    width: 500px;
+    height: 400px;
+}
+
+.bouton {
+    display: inline-block;
+    background-color: #b5a1be;
+    font-family: "Brush Script Std", cursive;
+    font-style: italic;
+    font-size: 20px;
+    margin: 50px;
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+    line-height: 35px; 
+    text-align: center;
+    text-decoration: none;
+    color: black; 
+}
+
+.bouton:hover {
+    background-color: #a489ae; 
+}
+
+
+#bouton img{
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+}
