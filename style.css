@@ -26,11 +26,11 @@ div{
     font-style: italic;
     font-size: 20px;
     margin: 50px;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 250px;
     height: 35px;
     line-height: 35px; 
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     color: black; 
 }
@@ -39,8 +39,9 @@ div{
     background-color: #a489ae; 
 }
 
-
 #bouton img{
+    padding-right: 50px;
+    padding-left: 10px;
     width: 25px;
     height: 25px;
     border-radius: 5px;
